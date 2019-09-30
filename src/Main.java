@@ -6,7 +6,7 @@ public class Main
         milk[1] = new Milk("Стары Менск", 3.2, true);
         milk[2] = new Milk("Беллакт",2.5,true);
         milk[3] = new Milk("Бабушкина крынка",3.2, true);
-        milk[4] = new Milk("Минская марка",1.8, true);
+        milk[4] = new Milk("Минская маркаа",1.8, true);
 
         for(int i = 0; i < milk.length; i++)
         {
